@@ -1,0 +1,7 @@
+Kolor Palet e Rek
+      ↓↓
+
+Primary = #0B141B => ireng rodo biru
+Secondary = #E3E8EA => putih
+            #1B232A => garis abu tuo
+            #21C063 => ijo
